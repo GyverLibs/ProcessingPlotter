@@ -1,3 +1,5 @@
+[![Foo](https://img.shields.io/badge/README-ENGLISH-brightgreen.svg?style=for-the-badge)](https://github-com.translate.goog/GyverLibs/ProcessingPlotter?_x_tr_sl=ru&_x_tr_tl=en)
+
 # ProcessingPlotter
  Простая библиотека для вывода графиков на Processing
 ![image](/plotterimg.png)
