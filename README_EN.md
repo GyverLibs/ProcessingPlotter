@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 # ProcessingPlotter
  A simple library for displaying graphs on Processing
 ![image](/plotterimg.png)
