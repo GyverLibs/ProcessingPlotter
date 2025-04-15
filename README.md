@@ -5,6 +5,9 @@
 |⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️<br><br>**ВНИМАНИЕ, БИБЛИОТЕКА УСТАРЕЛА! ИСПОЛЬЗУЙ БИБЛИОТЕКУ [PPlot](https://github.com/GyverLibs/PPlot)**<br><br>⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️|
 | --- |
 
+> [!CAUTION]
+> ВНИМАНИЕ, БИБЛИОТЕКА УСТАРЕЛА! ИСПОЛЬЗУЙ БИБЛИОТЕКУ [PPlot](https://github.com/GyverLibs/PPlot)
+
 # ProcessingPlotter
 Простая библиотека для вывода графиков на Processing
 
